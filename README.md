@@ -10,8 +10,12 @@ C’est l’occasion pour vous de mettre en place une méthodologie de travail a
 
 ## Compétences évaluées
 
-1.Suivre le déroulement du projet grâce à un outil de gestion de projet
-2.Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels
-3.Découper une fonctionnalités en tâches pour préparer le développement
-4.Présenter la solution technique
-5.Mettre en place une méthode de veille technologique
+1.Suivre le déroulement du projet grâce à un outil de gestion de projet.
+
+2.Rédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels.
+
+3.Découper une fonctionnalités en tâches pour préparer le développement.
+
+4.Présenter la solution technique.
+
+5.Mettre en place une méthode de veille technologique.
